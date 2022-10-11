@@ -1,1 +1,3 @@
 this is my commit in b1 branch
+
+this is to check conflicts 
